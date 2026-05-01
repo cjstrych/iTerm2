@@ -1,8 +1,11 @@
 **iTerm2 SSH Profile Configuration**  
 https://iterm2colorschemes.com
 
-*Monokai Classic*  
+*Monokai Classic Color Scheme*  
 [https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Monokai Classic.itermcolors](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Monokai%20Classic.itermcolors)  
+<br/>**Settings --> General**  
+ - Uncheck "Confirm Closing Multiple Sessions"  
+ - Uncheck "Confirm "Quit iTerm2 (⌘Q)""  
 <br/><br/>**Settings --> Profiles --> General**  
  - Command -> SSH "-4 &lt;HOSTNAME&gt;"  
  - Configure... -> Files to Copy to Remote Host:  
